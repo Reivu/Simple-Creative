@@ -1,3 +1,9 @@
 # Skripsi
 
 SimpleCreative with Firebase
+
+![alt text](https://ch3302files.storage.live.com/y4mQbtScEymjlQ5zbscNeqb2G61FaBF9erlKvbBNT8TIiqpJUVoqX3KOizTAKPchf6DmXEP-lzypJCiFLTqi4-QUYn1jPAdwO0WgCzmJjEcKUJ1-06Rcnba7CZw4c73tY014dvUljlx6yJsfY37RQBAF59UIVDlccBbiekE_tj5nbfvibUdD2XE7rMk9QBKuUUL?width=371&height=660&cropmode=none)
+
+![alt text](https://ch3302files.storage.live.com/y4mBh5uGOqTV-5DclcpPfId0gu3Ikex22_fBjMO__zxCgZ7KDxWwQSHW-HbLeeZoK3S5YUgwLr0unbZEegmwQWiQKO-rQ8JndSp7kqfZorQYLj-cAAOzS9VUNN3p1br4iYAinNC1OkT50J5NP5vUu03lsT6sJMIM0w-YLZsxn7AOVnCe_U4fXzf3j2eWFvTI9BG?width=371&height=660&cropmode=none)
+
+![alt text](https://ch3302files.storage.live.com/y4mqOJXqeLU9AKhbpeBV52xm35Ai-Xj8T6IQKcEfraXURtcMVVjDES74G7cZP2jqqNsfTusCt9dzfzbgoUvmM35Mrg0dTs5_vPxLyplgBDQm-ycSqpcJv4KT3geBX7XGC5iNHh0wKYCi95T-edwWqRXQzWZjO1UswWscUE9RTBppaj9EtSU6HhVVpwTr88AeWAW?width=371&height=660&cropmode=none)
