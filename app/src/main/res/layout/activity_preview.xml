@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <include layout="@layout/toolbar_back"/>
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="56dp">
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:id="@+id/post_image"
+                    android:scaleType="fitCenter"/>
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:id="@+id/relLayout2"
+                    android:layout_below="@+id/post_image">
+
+                <RelativeLayout
+                        android:layout_width="60dp"
+                        android:layout_height="match_parent"
+                        android:id="@+id/heartLayout">
+
+                    <ImageView
+                            android:layout_width="35dp"
+                            android:layout_height="35dp"
+                            android:id="@+id/image_heart_red"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            android:src="@drawable/ic_favorite"
+                            android:visibility="invisible"/>
+
+                    <ImageView
+                            android:layout_width="35dp"
+                            android:layout_height="35dp"
+                            android:id="@+id/image_heart"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            android:src="@drawable/ic_favorite_border"
+                            android:visibility="visible"/>
+
+                </RelativeLayout>
+
+                <TextView
+                        android:layout_width="315dp"
+                        android:layout_height="27dp"
+                        android:layout_toEndOf="@+id/heartLayout"
+                        android:text="Liked by Mitch, Tom, Mohammed and 30 others"
+                        android:textColor="@color/bluedark"
+                        android:textSize="18sp"
+                        android:id="@+id/image_likes"
+                        android:visibility="gone"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginEnd="10dp"
+                        android:layout_centerVertical="true"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/relLayout3"
+                    android:layout_below="@+id/relLayout2"
+                    android:padding="10dp">
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="mitch.tabian moutains #earthporn #mountains"
+                        android:textColor="@color/bluedark"
+                        android:textSize="18sp"
+                        android:id="@+id/image_caption"
+                        android:layout_marginTop="5dp"/>
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="3 DAYS AGO"
+                        android:textColor="@color/grey"
+                        android:textSize="18sp"
+                        android:layout_below="@+id/image_caption"
+                        android:id="@+id/image_time_posted"
+                        android:layout_marginTop="15dp"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

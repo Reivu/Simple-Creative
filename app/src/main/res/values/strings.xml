@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">SimpleCreative</string>
+
+    <!--Title-->
+    <string name="Home">Home</string>
+    <string name="Search">Search</string>
+    <string name="Profile">Profile</string>
+    <string name="Camera">Camera</string>
+    <string name="Gallery">Gallery</string>
+
+    <!--Profile-->
+    <string name="Name">Display Name Here</string>
+    <string name="Email">Email Here</string>
+    <string name="Description">Description Here</string>
+    <string name="Setting">Setting</string>
+    <string name="Logout">Log Out</string>
+
+    <!--AUTH-->
+    <string name="auth_success">Success!!</string>
+    <string name="auth_failed">Failed!!</string>
+    <string name="auth_logout">Log Out!!</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="signin">No account yet? Create one</string>
+    <string name="signup">Create Account</string>
+    <string name="toLogin">Already a member? Login</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+
+    <!--Firebase-->
+    <string name="firebase_user">user</string>
+    <string name="firebase_name">name</string>
+    <string name="firebase_email">email</string>
+    <string name="firebase_profile_photo">profile_photo</string>
+    <string name="firebase_website">website</string>
+    <string name="firebase_description">description</string>
+    <string name="firebase_phone_Number">phone_number</string>
+    <string name="firebase_photos">photos</string>
+    <string name="firebase_user_photos">user_photos</string>
+    <string name="firebase_user_id">user_id</string>
+    <string name="firebase_display_name">display_name</string>
+    <string name="firebase_likes">likes</string>
+    <string name="firebase_following">following</string>
+    <string name="firebase_followers">followers</string>
+
+    <!--Setting-->
+    <string name="setting_email">Email</string>
+    <string name="setting_name">Name</string>
+    <string name="setting_display_name">Display Name</string>
+    <string name="setting_website">Website</string>
+    <string name="setting_description">Description</string>
+    <string name="setting_phone_number">Phone Number</string>
+    <string name="setting_photo">Change Photo</string>
+
+    <!--Home-->
+    <string name="home_caption">caption</string>
+    <string name="home_tags">tags</string>
+    <string name="home_photo_id">photo_id</string>
+    <string name="home_user_id">user_id</string>
+    <string name="home_date">date</string>
+    <string name="home_path">path</string>
+
+</resources>
